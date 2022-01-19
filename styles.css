@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+h1 {
+    color: yellow;
+    font-size: 1.5rem;
+    background-color: greenyellow;
+    margin: 10px auto 10px auto
+    width: 100%;
+}
